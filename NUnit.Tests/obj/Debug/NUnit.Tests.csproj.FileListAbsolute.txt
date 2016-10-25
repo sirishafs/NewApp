@@ -1,0 +1,7 @@
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\bin\Debug\NUnit.Tests.dll
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\bin\Debug\NUnit.Tests.pdb
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\bin\Debug\nunit.framework.dll
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\bin\Debug\nunit.framework.xml
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\obj\Debug\NUnit.Tests.csprojResolveAssemblyReference.cache
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\obj\Debug\NUnit.Tests.dll
+C:\VisualStudio\NewApp\NewApp\NUnit.Tests\obj\Debug\NUnit.Tests.pdb
