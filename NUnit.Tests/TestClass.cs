@@ -16,5 +16,12 @@ namespace NUnit.Tests
             // TODO: Add your test code here
             Assert.Pass("Your first passing test");
         }
+
+        [Test]
+        public void NegativeTest()
+        {
+            if (true)
+                Assert.Fail("This is an error, Error");
+        }
     }
 }
