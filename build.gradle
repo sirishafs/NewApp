@@ -1,0 +1,16 @@
+buildscript {
+repositories {
+flatDir dirs: "NewApp/lib"
+             }
+dependencies {
+    classpath "com.ullink.gradle:gradle-msbuild-plugin:2.14"
+             }
+            }
+
+apply plugin: "com.ullink.msbuild"
+
+msbuild {
+solutionFile = file('NewApp.sln')
+configuration = 'Release'
+projectName = 'NewApp'
+        }
