@@ -1,8 +1,0 @@
-language: csharp
-solution: NewApp.sln
-install:
-  - nuget restore NewApp.sln
-  - nuget install NUnit.ConsoleRunner -Version 3.5.0 -OutputDirectory consolerunner
-script:
-  - xbuild /p:Configuration=Release NewApp.sln
-  - mono ./packages/NUnit.ConsoleRunner.3.5.0/tools/nunit3-console.exe ./NUnit.Tests/bin/Debug/NUnit.Tests.dll

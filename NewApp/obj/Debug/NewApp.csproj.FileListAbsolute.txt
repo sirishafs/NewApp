@@ -67,8 +67,6 @@ C:\VisualStudio\NewApp\NewApp\NewApp\bin\Microsoft.Owin.Security.MicrosoftAccoun
 C:\VisualStudio\NewApp\NewApp\NewApp\obj\Debug\NewApp.csprojResolveAssemblyReference.cache
 C:\VisualStudio\NewApp\NewApp\NewApp\obj\Debug\NewApp.dll
 C:\VisualStudio\NewApp\NewApp\NewApp\obj\Debug\NewApp.pdb
-C:\VisualStudio\NewApp\NewApp\NewApp\bin\NewApp.dll.CodeAnalysisLog.xml
-C:\VisualStudio\NewApp\NewApp\NewApp\bin\NewApp.dll.lastcodeanalysissucceeded
 C:\VisualStudio\NewApp\NewApp\NewApp\bin\CrystalDecisions.CrystalReports.Engine.dll
 C:\VisualStudio\NewApp\NewApp\NewApp\bin\CrystalDecisions.ReportSource.dll
 C:\VisualStudio\NewApp\NewApp\NewApp\bin\CrystalDecisions.Shared.dll
